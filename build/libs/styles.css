@@ -1,0 +1,82 @@
+.mainMenuButton {
+	-fx-font-family: "Aclonica";
+	-fx-font-size: 45pt ;
+	-fx-background-color:black;
+	-fx-text-base-color: white;
+	-fx-border-width:4px; 
+	-fx-border-style: solid;
+	-fx-border-color: white;
+
+}
+.mainMenuButton:active,
+.mainMenuButton:hover {
+	-fx-background-color: white;
+	-fx-text-base-color: black;
+	-fx-border-color: black;
+}
+
+
+.UIButton {
+	-fx-font-family: "Aclonica";
+	-fx-font-size: 30pt ;
+	-fx-background-color:black;
+	-fx-text-base-color: white;
+	-fx-border-width:3px; 
+	-fx-border-style: solid;
+	-fx-border-color: white;
+
+}
+.UIButton:active,
+.UIButton:hover {
+	-fx-background-color: white;
+	-fx-text-base-color: black;
+	-fx-border-color: black;
+}
+
+.title {
+	-fx-font: 60px "Aclonica";
+	-fx-text-base-color: white;
+	-fx-text-fill: white;
+}
+
+.comboBox {
+	-fx-padding: 3 0 2 7;
+    -fx-background: black;
+    -fx-background-color: transparent;
+	-fx-border-width:4px;
+	-fx-border-style: solid;
+	-fx-border-color: white;
+	-fx-font-family: "Aclonica";
+	-fx-font-size: 25pt ;
+	-fx-text-base-color: white;
+	-fx-text-fill: white;
+}
+
+.gridButton {
+	-fx-border-style: solid;
+	-fx-border-color: red;
+	-fx-border-width:0px;
+}
+
+.gridButtonToggled {
+	-fx-border-width:4px;
+}
+
+.gridButtonUntoggled {
+	-fx-border-width:0px;
+}
+.whiteText {
+	-fx-font-size: 25pt ;
+	-fx-text-base-color: white;
+	-fx-text-fill: white ;
+}
+
+.textField {
+    -fx-background-color: black;
+   	-fx-text-base-color: white;
+	-fx-text-fill: white;
+	-fx-border-width:4px;
+	-fx-font-size: 35pt ;
+	-fx-border-style: solid;
+	-fx-border-color: white;
+}

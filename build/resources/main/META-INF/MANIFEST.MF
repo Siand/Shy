@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: json-simple-1.1.1.jar javafx-graphics-11.0.2-win.jar javafx-
+ controls-11.0.2-win.jar javafx-base-11.0.2.jar javafx-base-11.0.2-win.j
+ ar javafx-graphics-11.0.2.jar
+
